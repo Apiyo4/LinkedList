@@ -6,7 +6,7 @@ Benchmark removing from the front of a list versus
 removing from the front of a linked list
 """
 if __name__ == '__main__':
-  n = 100000
+  n = 109999
 
   l = [i for i in range(0, n)]
   ll = LinkedList()
